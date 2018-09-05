@@ -312,7 +312,7 @@ While Arxiv is of paramount importance in the fast and open dissemination of Dee
 
 **YouTube Channels**
 
-_Arxiv Insights,__CodeEmperium_ and _Yannic Kilcher_ are the most under-appreciated YouTube Channels on Deep Learning with some of the clearest explanations on Autoencoders and Attention. Another YouTube Channel that should be mentioned is _Lex Fridman, who_ is the main instructor MIT&#39;s Self-Driving Course, but also taught MIT&#39;s course on Artificial General Intelligence, which has some fascinating lectures on Meta-Learning, Consciousness and Intelligence. And finally, no such YouTube list could leave out _Siraj Rival_. Some hate him, some love him. It really depends on what you prefer and what you want to get out of such videos. For me, I&#39;m not that compatible with his way of teaching, but I do appreciate the variety of content he publishes and the entertainment value he provides.
+_Arxiv Insights_,_CodeEmperium_ and _Yannic Kilcher_ are the most under-appreciated YouTube Channels on Deep Learning with some of the clearest explanations on Autoencoders and Attention. Another YouTube Channel that should be mentioned is _Lex Fridman, who_ is the main instructor MIT&#39;s Self-Driving Course, but also taught MIT&#39;s course on Artificial General Intelligence, which has some fascinating lectures on Meta-Learning, Consciousness and Intelligence. And finally, no such YouTube list could leave out _Siraj Rival_. Some hate him, some love him. It really depends on what you prefer and what you want to get out of such videos. For me, I&#39;m not that compatible with his way of teaching, but I do appreciate the variety of content he publishes and the entertainment value he provides.
 
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/videos)
 - [CodeEmperium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA/videos)
@@ -336,6 +336,18 @@ As mentioned previously, I am a huge fan of _Distill.pub,_ and _o_ne of its Edit
 - [The Gradient](https://thegradient.pub/)
 - [Sebastian Ruder](http://ruder.io/#open)
 - [Depth First Learning](http://www.depthfirstlearning.com/)
+
+**Cheatsheets**
+
+Cheatsheets are awesome. After learning new concepts or programming commands, you can always refer back to them in case you forget, for example, how to retrieve array dimensions in Numpy. 
+
+- [Deep Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [PyTorch](https://www.sznajdman.com/pytorch-cheat-sheet/)
+- [Numpy](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
+- [Pandas](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
+- [Matplotlib](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
+- [Scikit-Learn](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet)
+- [Jupyter Notebook](https://www.datacamp.com/community/blog/jupyter-notebook-cheat-sheet)
 
 **Requests for Research**
 

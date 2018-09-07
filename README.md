@@ -10,11 +10,14 @@ Inspired by Haseeb Qureshi&#39;s excellent [Guide on Learning Blockchain Develop
 
 As of now, all the resources in this guide are all free thanks to their authors.
 
+The link to my original blog post can be found [here](https://medium.freecodecamp.org/the-incomplete-deep-learning-guide-2cc510cb23ee).
+
+
 **Target Audience**
 
 - Anybody who wants to dive deeper into the topic, seeks a career in this field or aspires to gain a theoretical understanding of Deep Learning
 
-**Goals of this Article**
+**Goals of this Guide**
 
 - Give an overview and a sense of direction within the ocean of resources
 - Give a clear and useful path towards learning Deep Learning Theory and Development
@@ -374,3 +377,6 @@ Some of the people worth following on Twitter:
 **Phase X: Keep Learning**
 
 The field is changing rapidly, so keep learning and enjoy the ride.
+
+
+

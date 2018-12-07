@@ -271,10 +271,11 @@ As Reinforcement Learning (RL) is neither covered by deeplearning.ai nor fast.ai
 - [Jacob Schrum&#39;s Intro To RL](https://www.youtube.com/watch?v=3T5eCou2erg&amp;list=PLWi7UcbOD_0u1eUjmF59XW2TGHWdkHjnS)
 - [Andrej Karpathy&#39;s Blog Post on Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
 - [Chapter 1–2 of Andrew Ng&#39;s PhD Thesis on Markov Decision Processes](http://rll.berkeley.edu/deeprlcoursesp17/docs/ng-thesis.pdf)
+- [DeepMind&#39;s Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [David Silver&#39;s Course on Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
-- [Berkeley CS294 Deep Reinforcement Learning Course(2017](http://rll.berkeley.edu/deeprlcoursesp17/))
+- [Berkeley CS294 Deep Reinforcement Learning Course(2017)](http://rll.berkeley.edu/deeprlcoursesp17/))
 - [Berkeley CS294 Deep Reinforcement Learning (2018, ongoing session)](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [Reinforcement Learning: An Introduction (Book Draft, 2018)](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+- [Reinforcement Learning: An Introduction (Final Version, 2018)](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 - [Berkeley Deep RL Bootcamp (2017)](https://www.youtube.com/watch?v=qaMdN6LS9rA&amp;list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
 - [MILA Reinforcement Learning Summer School (2017](https://mila.quebec/en/cours/deep-learning-summer-school-2017/))
 - [Udacity Deep RL GitHub Repo](https://github.com/udacity/deep-reinforcement-learning)
@@ -286,6 +287,7 @@ There is certainly value to knowing various Machine Learning ideas that came bef
 
 - [Andrew Ng&#39;s Machine Learning course (2012)](https://www.coursera.org/learn/machine-learning)
 - [Caltech CS156 Machine Learning course (2012)](http://work.caltech.edu/telecourse.html)
+- [Christopher Bishop&#39;s Pattern Recognition and Machine Learning Book (2006)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Machine Learning Yearning Book by Andrew Ng](http://www.mlyearning.org/)
 
 **Self-Driving Cars**

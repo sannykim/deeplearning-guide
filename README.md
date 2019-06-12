@@ -269,7 +269,7 @@ Noteworthy as well is that top-tier research conferences such as NIPS or ICML, w
 - [CMU Topics in Deep Learning Course (2017)](https://www.youtube.com/watch?v=fDlOQrLX8Hs&amp;list=PLpIxOj-HnDsOSL__Buy7_UEVQkyfhHapa)
 - [Oxford Deep Learning Course (2015)](https://www.youtube.com/watch?v=PlhFWT7vAEw&amp;list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
 - [Deep Learning Book by Ian Goodfellow et al.](https://www.deeplearningbook.org/)
-- [NIPS](https://nips.cc/Conferences/2017/Videos) (2017), [ICML](https://icml.cc/Conferences/2017/Videos) (2017), [ICLR](https://www.facebook.com/pg/iclr.cc/videos/) (2018) Conference Videos
+- [NeurIPS](https://nips.cc/Conferences/2017/Videos) (2018), [ICML](https://icml.cc/Conferences/2017/Videos) (2018), [ICLR](https://www.facebook.com/pg/iclr.cc/videos/) (2019), [CVPR](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos) (2018) Conference Videos
 
 **Reinforcement Learning**
 

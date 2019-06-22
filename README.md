@@ -341,8 +341,10 @@ _Arxiv Insights_,_CodeEmperium_ and _Yannic Kilcher_ are the most under-apprecia
 
 Podcasts are quite a nice way to hear from various people on a diverse range of topics. Two of my favorite podcasts, which produce a lot of Deep Learning related content, are T_alking Machines_ and _This Week in ML &amp; AI_ (TWiML&amp;AI). For example, listen to Talking Machine&#39;s recent [podcast](https://www.thetalkingmachines.com/episodes/icml-2018-jennifer-dy) at ICML 2018 or TWiML&#39;s [podcast](https://twimlai.com/twiml-talk-176-openai-five-with-christy-dennison/) with OpenAI Five&#39;s Christy Dennison!
 
-- [Talking Machines](https://www.thetalkingmachines.com/)
 - [This Week in ML &amp; AI](https://twimlai.com/)
+- [Lex Fridman&#39;s AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [Mind the Machines](https://www.youtube.com/channel/UCDK-mgQqtgLDtmsZZ651pNg/videos)
+- [Talking Machines](https://www.thetalkingmachines.com/)
 
 **Blogs**
 

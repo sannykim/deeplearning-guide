@@ -320,12 +320,18 @@ You will keep encountering fundamental concepts such as Losses, Regularizations,
 
 **Read Papers**
 
-While Arxiv is of paramount importance in the fast and open dissemination of Deep Learning research ideas, it can get overwhelming very quickly with the influx of papers on the platform. For that reason, Andrej Karpathy built [_Arxiv Sanity_](http://www.arxiv-sanity.com/), a tool that lets you filter and track papers according to your preferences. Here are just a few seminal papers from recent years, starting with the ImageNet Papers (AlexNet, VGG, InceptionNet, ResNet) that have had a tremendous influence on the trajectory of Deep Learning.
+While Arxiv is of paramount importance in the fast and open dissemination of Deep Learning research ideas, it can get overwhelming very quickly with the influx of papers on the platform. For that reason, Andrej Karpathy built [_Arxiv Sanity_](http://www.arxiv-sanity.com/), a tool that lets you filter and track papers according to your preferences. Here are just a few seminal papers from recent years, starting with the ImageNet Papers (AlexNet, VGG, InceptionNet, ResNet) that have had a tremendous influence on the trajectory of Deep Learning. A great way to look into papers is through reading groups. And thanks to the internet, reading groups such as AISC stream all their sessions online. Furthermore, Kaggle has an online reading group for NLP papers and Microsoft records their paper review calls. All three discuss a variety of different papers, so it's worth taking a look at all of them, but AISC in particular has a vast library of previously recorded sessions. 
 
 - [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (2012), [VGG](https://arxiv.org/abs/1409.1556) (2014), [InceptionNet](https://arxiv.org/pdf/1409.4842.pdf) (2014), [ResNet](https://arxiv.org/abs/1512.03385) (2015)
 - [Generative Adversarial Networks (2014)](https://arxiv.org/abs/1406.2661)
 - [Yolo Object Detection Paper (2015)](https://arxiv.org/abs/1506.02640)
 - [Playing Atari with Deep Reinforcement Learning (2013)](https://arxiv.org/pdf/1312.5602.pdf)
+- [AISC YouTube Channel](https://www.youtube.com/user/amirfzpr/videos)
+- [Kaggle Reading Group](https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
+- [Microsoft Paper Review Calls](https://www.youtube.com/playlist?list=PLNe3Jh7xEi2Pv6Z33r2ZNpO8MIMr5ElWI)
+
+
+
 
 **YouTube Channels**
 

@@ -240,8 +240,11 @@ After fast.ai, here are some of the things you can do:
 
 The best place to continue your Computer Vision path is definitely Stanford&#39;s CS231n Course, also called _Convolutional Neural Networks for Visual Recognition_. They not only have all their lecture videos online, but their website also offers [course notes](http://cs231n.github.io/) and [assignments](http://cs231n.stanford.edu/2017/syllabus.html)! Fast.ai Part 2 and deeplearning.ai will give you a good foundation for the course as CS231n will go a a lot further in terms of the theory behind CNNs and related topics.
 
-While both versions cover mostly the same topics, which also means _choose whichever version&#39;s teaching style you like better_, the final lectures differ slightly. For example, 2017 incorporates a Lecture on Generative Models and 2016 has a guest lecture by Jeff Dean on Deep Learning at Google. If you want to see how Computer Vision was before Deep Learning took off, the University of Central Florida (UCF) has a Computer Vision course from 2012 teaching about concepts such as SIFT features.
+While both versions cover mostly the same topics, which also means _choose whichever version&#39;s teaching style you like better_, the final lectures differ slightly. For example, 2017 incorporates a Lecture on Generative Models and 2016 has a guest lecture by Jeff Dean on Deep Learning at Google. If you want to see how Computer Vision was before Deep Learning took off, the University of Central Florida (UCF) has a Computer Vision course from 2012 teaching about concepts such as SIFT features. 
 
+CS231n is still one of the best resources for learning Computer Vision, but if you want to combine old-school computer vision techniques such as edge detection and stereo in combination with more recent Machine Learning approaches, check out the course "The Ancient Secrets of Computer Vision" by the authors of YOLO. 
+
+- [UW's The Ancient Secrets of Computer Vision (2018)]https://pjreddie.com/courses/computer-vision/)
 - [Stanford CS231n (2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&amp;list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [Stanford CS231n (2016)](https://www.youtube.com/watch?v=NfnWJUyUJYU&amp;list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [UCF Computer Vision (2012](https://www.youtube.com/watch?v=715uLCHt4jE&amp;list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))

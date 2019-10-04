@@ -338,13 +338,12 @@ While Arxiv is of paramount importance in the fast and open dissemination of Dee
 
 **YouTube Channels**
 
-_Arxiv Insights_,_CodeEmperium_ and _Yannic Kilcher_ are the most under-appreciated YouTube Channels on Deep Learning with some of the clearest explanations on Autoencoders and Attention. Another YouTube Channel that should be mentioned is _Lex Fridman, who_ is the main instructor MIT&#39;s Self-Driving Course, but also taught MIT&#39;s course on Artificial General Intelligence, which has some fascinating lectures on Meta-Learning, Consciousness and Intelligence. And finally, no such YouTube list could leave out _Siraj Rival_. Some hate him, some love him. It really depends on what you prefer and what you want to get out of such videos. For me, I&#39;m not that compatible with his way of teaching, but I do appreciate the variety of content he publishes and the entertainment value he provides.
+_Arxiv Insights_,_CodeEmperium_ and _Yannic Kilcher_ are the most under-appreciated YouTube Channels on Deep Learning with some of the clearest explanations on Autoencoders and Attention. Another YouTube Channel that should be mentioned is _Lex Fridman, who_ is the main instructor MIT&#39;s Self-Driving Course, but also taught MIT&#39;s course on Artificial General Intelligence, which has some fascinating lectures on Meta-Learning, Consciousness and Intelligence. 
 
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/videos)
 - [CodeEmperium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA/videos)
 - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/videos)
 - [Lex Fridman](https://www.youtube.com/user/lexfridman)
-- [Siraj Rival](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
 
 **Podcasts**
 

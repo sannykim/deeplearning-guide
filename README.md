@@ -244,7 +244,7 @@ While both versions cover mostly the same topics, which also means _choose which
 
 CS231n is still one of the best resources for learning Computer Vision, but if you want to combine old-school computer vision techniques such as edge detection and stereo in combination with more recent Machine Learning approaches, check out the course "The Ancient Secrets of Computer Vision" by the authors of YOLO. 
 
-- [UW's The Ancient Secrets of Computer Vision (2018)]https://pjreddie.com/courses/computer-vision/)
+- [UW's The Ancient Secrets of Computer Vision (2018)](https://pjreddie.com/courses/computer-vision/)
 - [Stanford CS231n (2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&amp;list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [Stanford CS231n (2016)](https://www.youtube.com/watch?v=NfnWJUyUJYU&amp;list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [UCF Computer Vision (2012](https://www.youtube.com/watch?v=715uLCHt4jE&amp;list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))

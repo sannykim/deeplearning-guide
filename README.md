@@ -296,10 +296,13 @@ There are also recorded sessions of a Deep RL Bootcamp at Berkeley and an RL Sum
 - [Udacity Deep RL GitHub Repo](https://github.com/udacity/deep-reinforcement-learning)
 - [Thomas Simonini&#39;s Deep RL Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
-**Machine Learning (that is not necessarily Deep Learning)**
+**Machine Learning and AI (that is not necessarily Deep Learning)**
 
-There is certainly value to knowing various Machine Learning ideas that came before Deep Learning. Whether Logistic Regression or Anomaly Detection, Andrew Ng&#39;s classic Machine Learning Course is a great starting point. If you want a more mathematically rigorous course, Caltech has a superb MOOC that is more theoretically grounded. Professor Ng is also writing a book with ML best practices, for which you can access the first chapters of his draft.
+There is certainly value to knowing various Machine Learning and AI ideas that came before Deep Learning. Whether Logistic Regression or Anomaly Detection, Andrew Ng&#39;s classic Machine Learning Course is a great starting point. If you want a more mathematically rigorous course, Caltech has a superb MOOC that is more theoretically grounded. Professor Ng is also writing a book with ML best practices, for which you can access the first chapters of his draft. Lastly, Stanford and Berkeley both have excellent Introduction to AI courses that cover topics such as search and game playing.
 
+- [Stanford CS221 (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+- [Berkeley CS188 (2018)](https://www.youtube.com/playlist?list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH)
+- [Andrew Ng&#39;s Machine Learning course (2012)](https://www.coursera.org/learn/machine-learning)
 - [Andrew Ng&#39;s Machine Learning course (2012)](https://www.coursera.org/learn/machine-learning)
 - [Caltech CS156 Machine Learning course (2012)](http://work.caltech.edu/telecourse.html)
 - [Christopher Bishop&#39;s Pattern Recognition and Machine Learning Book (2006)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

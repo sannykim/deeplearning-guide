@@ -285,7 +285,7 @@ There are also recorded sessions of a Deep RL Bootcamp at Berkeley and an RL Sum
 - [Andrej Karpathy&#39;s Blog Post on Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
 - [Chapter 1–2 of Andrew Ng&#39;s PhD Thesis on Markov Decision Processes](http://rll.berkeley.edu/deeprlcoursesp17/docs/ng-thesis.pdf)
 - [Stanford CS234 Reinforcement Learning (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-- [UWaterllo CS885 Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+- [UWaterloo CS885 Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
 - [OpenAI Spinning up in Deep RL (2018)](https://spinningup.openai.com/)
 - [DeepMind&#39;s Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [David Silver&#39;s Course on Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
